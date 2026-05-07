@@ -170,7 +170,7 @@ Pandas • NumPy • Matplotlib • Power BI
 
 ## 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,sql" />
 
 ---
 
@@ -213,34 +213,33 @@ Pandas • NumPy • Matplotlib • Power BI
 
 ---
 
-# 📈 Current Focus
+# 🚀 Current Focus
 
 <div align="center">
 
-| 🚀 Area | 💡 Focus |
-|---|---|
-| 🏥 Healthcare AI | FHIR Interoperability |
-| 🤖 Generative AI | LLM Applications |
-| 🧠 NLP | Semantic AI Systems |
-| 📊 Analytics | Data Visualization |
-| 🌐 Engineering | Full Stack AI Systems |
+| 🏥 Healthcare AI | 🤖 Generative AI | 📊 Data Analytics |
+|---|---|---|
+| FHIR Interoperability | LLM Applications | Data Visualization |
+
+| 🧠 NLP Systems | 🌐 Full Stack AI | ⚙️ ML Deployment |
+|---|---|---|
+| Semantic AI Pipelines | Production AI Apps | Scalable Architectures |
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
+# 🏆 Achievements
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasshya1530&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+🥇 Published Researcher @ IC2NS2 2026  
+🏥 Built WHO-Compliant Healthcare AI Systems  
+🤖 Developed Full Stack AI Platforms  
+🧠 Experience with NLP, Computer Vision & Generative AI  
+📊 Strong Foundation in Data Analytics & ML Pipelines  
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hasshya1530&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasshya1530&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
----
 
 # 🌐 Connect With Me
 
