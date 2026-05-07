@@ -1,149 +1,274 @@
-# Hi, I'm Hasshya Krishnamoorthy 👋
+<div align="center">
 
-AI/ML Engineer | NLP Researcher | Healthcare AI | Generative AI | Full Stack AI Developer | Data Analyst
+# 👋 Hi, I'm Hasshya Krishnamoorthy
 
-📍 Punjab, India  
-🎓 B.E. CSE (AI & ML) @ Chandigarh University  
-📄 Published Researcher @ IC2NS2 2026  
-🚀 Open to Full-Time AI/ML ,Data Analyst & Software Engineering Roles
+### 🚀 AI/ML Engineer • NLP Researcher • Healthcare AI • Generative AI • Data Analyst
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Healthcare+AI+Researcher;Full+Stack+AI+Developer;NLP+%26+Generative+AI+Enthusiast;Building+Real-World+Intelligent+Systems" />
 
-## 🚀 About Me
+<br>
 
-Results-driven AI/ML Engineer passionate about building real-world intelligent systems in:
+<img src="https://img.shields.io/badge/Published%20Researcher-IC2NS2%202026-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Healthcare-AI-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-AI%2FML%20Roles-orange?style=for-the-badge" />
 
-- Healthcare AI
-- NLP & Generative AI
-- Computer Vision
-- Full Stack AI Applications
-- Machine Learning Deployment
-
-I enjoy developing scalable AI-powered platforms that combine backend engineering, modern frontend systems, and production-ready ML pipelines.
+</div>
 
 ---
 
-## 🧠 Research Publication
+# 🌟 About Me
 
-### Enhancing CCDA to FHIR Conversion with Natural Language Processing and Ontological Normalization
+```yaml
+Name: Hasshya Krishnamoorthy
+Role: AI/ML Engineer
+Education: B.E. CSE (AI & ML) @ Chandigarh University
+Research: Published Researcher @ IC2NS2 2026
 
-📄 Published at:
-International Conference on Computing, Communication, Network Systems & Security (IC2NS2), 2026
+Focus Areas:
+  - Healthcare AI
+  - NLP & Generative AI
+  - Computer Vision
+  - Data Analytics
+  - Full Stack AI Systems
+```
 
-- Proposed an NLP-driven framework to improve healthcare interoperability and semantic accuracy.
-- Built ontology-assisted semantic normalization pipelines using SNOMED & LOINC mappings.
-- Developed WHO-compliant FHIR conversion workflows for structured healthcare data.
+💡 Passionate about building intelligent systems that combine AI, scalable backend architectures, data analytics, and modern frontend engineering to solve real-world problems.
+
+---
+
+# 🧠 Research Publication
+
+<div align="center">
+
+## 📄 Enhancing CCDA to FHIR Conversion with NLP & Ontological Normalization
+
+🏛️ International Conference on Computing, Communication, Network Systems & Security (IC2NS2), 2026
+
+</div>
+
+### 🔬 Research Highlights
+
+✅ NLP-assisted Healthcare Interoperability  
+✅ WHO-Compliant FHIR Resource Generation  
+✅ Ontology Mapping using SNOMED & LOINC  
+✅ Semantic Validation Pipelines  
 
 ---
 
 # 🔥 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%">
+
 ## 🏥 Hybrid CCDA to FHIR Converter
 
-**Tech Stack:** Python, NLP, SciSpaCy, XML, FHIR
+### ⚙️ Tech Stack
+Python • NLP • SciSpaCy • XML • FHIR
 
-- Built an NLP-assisted healthcare interoperability pipeline.
-- Converted CCDA clinical documents into WHO-compliant FHIR JSON resources.
-- Implemented ontology mapping using SNOMED and LOINC standards.
-- Improved semantic accuracy and healthcare data consistency.
+### 🚀 Features
+- NLP-assisted healthcare interoperability
+- CCDA → FHIR conversion pipeline
+- SNOMED & LOINC ontology mapping
+- WHO-compliant FHIR resources
 
----
+</td>
+
+<td width="50%">
 
 ## 🤖 AI Interview Screener
 
-**Tech Stack:** Python, React, FastAPI/Flask, Groq API, Docker
+### ⚙️ Tech Stack
+Python • React • FastAPI • Groq API • Docker
 
-- Developed a full-stack AI-powered interview simulation platform.
-- Implemented LLM-based candidate evaluation and scoring.
-- Integrated voice + text input workflows.
-- Designed scalable frontend-backend architecture using REST APIs.
+### 🚀 Features
+- AI interview simulation
+- LLM-based candidate evaluation
+- Voice + text interaction
+- REST API architecture
 
----
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
 
 ## 💬 Multi-Persona AI Chatbot
 
-**Tech Stack:** Python, Streamlit, LangChain, OpenRouter
+### ⚙️ Tech Stack
+Python • Streamlit • LangChain • OpenRouter
 
-- Built a modular Generative AI chatbot platform.
-- Added multiple AI personas and memory support.
-- Designed extensible architecture for future AI tools integration.
+### 🚀 Features
+- Multi-persona AI workflows
+- Conversational memory
+- Modular architecture
+- Extensible AI tools integration
+
+</td>
+
+<td width="50%">
+
+## 🛡️ URL Phishing Detection
+
+### ⚙️ Tech Stack
+Python • Scikit-learn • Machine Learning
+
+### 🚀 Features
+- Malicious URL classification
+- Feature engineering
+- Cybersecurity ML pipeline
+- Real-time phishing detection
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 👁️ Face Recognition Attendance
+
+### ⚙️ Tech Stack
+Python • OpenCV • Computer Vision
+
+### 🚀 Features
+- Real-time face recognition
+- Automated attendance tracking
+- AI-powered image processing
+- Smart attendance workflow
+
+</td>
+
+<td width="50%">
+
+## 📊 Data Analytics & Visualization
+
+### ⚙️ Tools
+Pandas • NumPy • Matplotlib • Power BI
+
+### 🚀 Skills
+- Exploratory Data Analysis
+- Data Cleaning
+- Feature Engineering
+- Dashboard Visualization
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛡️ URL Phishing Detection System
+# ⚡ Tech Stack
 
-**Tech Stack:** Python, Scikit-learn, Machine Learning
+<div align="center">
 
-- Developed a machine learning system for phishing URL detection.
-- Implemented feature extraction and malicious URL classification workflows.
+## 👨‍💻 Languages
 
----
-
-## 👁️ Face Recognition Attendance System
-
-**Tech Stack:** Python, OpenCV, Computer Vision
-
-- Built an AI-powered attendance management system using facial recognition.
-- Enabled automated attendance tracking through real-time image processing.
-
----
-# 🛠️ Tech Stack
-
-## Languages
-Python • Java • JavaScript • C/C++ • SQL
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,sql" />
 
 ---
 
-## AI/ML
-Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • LLMs • YOLO
+## 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/YOLO-red?style=for-the-badge" />
 
 ---
 
-## Data Analytics & Visualization
-Pandas • NumPy • Data Analysis • Data Cleaning • Exploratory Data Analysis (EDA) • Feature Engineering • Streamlit • Matplotlib • Power BI
+## 🌐 Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=react,flask,django,fastapi" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge" />
 
 ---
 
-## Frameworks & Libraries
-TensorFlow • PyTorch • Scikit-learn • Flask • Django • Streamlit • React • LangChain • FastAPI
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 
 ---
 
-## Databases
-PostgreSQL • MongoDB • MySQL
+## ⚙️ Tools & Platforms
 
----
+<img src="https://skillicons.dev/icons?i=git,docker,github,vscode,postman" />
 
-## Healthcare AI
-FHIR • HL7 • Clinical Informatics • Ontology Mapping • Semantic Validation
-
----
-
-## Tools & Platforms
-Git • Docker • Postman • GitHub Actions • Railway • VS Code • Jupyter Notebook
-
----
-
-## Core Concepts
-Data Structures & Algorithms • OOP • REST APIs • CI/CD • Software Engineering • Model Deployment
+</div>
 
 ---
 
 # 📈 Current Focus
 
-- Healthcare AI & FHIR Interoperability
-- LLM-powered Applications
-- AI System Design
-- Full Stack AI Engineering
-- Production ML Pipelines
+<div align="center">
+
+| 🚀 Area | 💡 Focus |
+|---|---|
+| 🏥 Healthcare AI | FHIR Interoperability |
+| 🤖 Generative AI | LLM Applications |
+| 🧠 NLP | Semantic AI Systems |
+| 📊 Analytics | Data Visualization |
+| 🌐 Engineering | Full Stack AI Systems |
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=hasshya1530&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=hasshya1530&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasshya1530&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
 # 🌐 Connect With Me
 
-💼 LinkedIn: www.linkedin.com/in/hasshya-krishnamoorthy-289bb2255  
-📧 Email: hasshyamoorthy1530@gmail.com
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hasshya-krishnamoorthy-289bb2255">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:hasshyamoorthy1530@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/hasshya1530">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-⭐ Always building intelligent systems that solve real-world problems.
+<div align="center">
+
+### ⭐ Building intelligent systems for real-world impact ⭐
+
+<img src="https://komarev.com/ghpvc/?username=hasshya1530&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
